@@ -10,4 +10,4 @@ year = 2025
 eye = "green/blue"
 age = 14
 subject = "english"
-print("hi" , ques , "whats for breakfast" , fast)
+print("hi" , ques , "whats for breakfast")
