@@ -29,4 +29,6 @@ print ("welcome to my program", name)
 #concatenate (add)
 #upper() makes all upper
 #lower() makes all lower
-#strip() strip makes the user less dumb
+#strip() strip makes the user less dumb 
+
+#debugging is fixing problems in my code
