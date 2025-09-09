@@ -32,4 +32,6 @@ print ("welcome to my program", name)
 #strip() strip makes the user less dumb 
 
 #debugging is fixing problems in my code
-# lol
+    # syntax error
+    # logic error
+    # run-time error 
