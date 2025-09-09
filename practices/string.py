@@ -33,6 +33,23 @@ print ("welcome to my program", name)
 
 #debugging is fixing problems in my code
     # syntax error
+    # when you forget or add something that should/shouldn't be there
+string = "example" #but if there was a different qoutation on one side
     # logic error
+    # where our code does something that we didn't expect it to do
+num1 = "1"
+num2 = "2"
+print(num1 + num2)
     # run-time error 
-    
+    # when there is a problem in a code that will break the code when it tries to run
+
+# a bug is anything in your code that doesn't allow your code to run properly 
+
+# find
+print(sentence.find("brown"))
+# slicing
+print(sentence [10:15])
+
+#index - location of that particular item within my string or list
+#in programming counting starts at 0
+#concatonating = putting strings together 
