@@ -35,4 +35,4 @@ print ("welcome to my program", name)
     # syntax error
     # logic error
     # run-time error 
-    #silly 
+    
