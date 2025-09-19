@@ -11,4 +11,4 @@ elif age >= 16:
 elif age >= 18:
     print("you are old enough to vote!")
 else:
-    print("you can't do any of this!")    
+    print("you can't do any of this!")
