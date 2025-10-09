@@ -24,4 +24,12 @@ int main(){
 
     int eq7 = (3* pow(5, 2)/15)* pow(2, 2)+ 
     printf("this equation equals %d\n", eq6); 
+
+    int eq8 = (pow(1, 4)* pow(2, 2)+ pow(3, 3))- pow(2, 5)/4;
+    printf("equation 8 = %d\n", eq8);
+
+    int eq9 = pow((22/2-2*5), 2) + pow((4-6/6), 2);
+    printf("equation 9 = %d\n", eq9);
+
+    return 0;
 }
