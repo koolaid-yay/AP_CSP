@@ -52,18 +52,23 @@ int main(void){
 
 
 //How do you declare and initialize an integer variable named "age" with the value 25 in C?
+    // int age = 25;
 
 
 //What is the difference between printf() and scanf() functions in C?
+    //printf prints your question/input while scanf gives you the output/answer
 
 
 //How do you add comments in C?
+    // two slashes and if you wanna write big bodies of text its /**/
 
 
 //What is the purpose of the #include <stdio.h> line at the beginning of a C program?
+    // allows the program to use the input/output
 
 
 //In C, what is the significance of the main() function?
+    // its the entry point for all programs terminal
 
 
 //What is the difference between %d and %f format specifiers in printf()?
