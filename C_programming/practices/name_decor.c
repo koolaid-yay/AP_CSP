@@ -3,14 +3,16 @@
 #include <string.h>
 
 int main(void){
-    char name[100];
+    
+    char name[30];
 
-    printf("enter your name please: \n");
+    printf("please tell me your first name: ");
     scanf("%s", name);
 
-    strcat(name, "}}");
-    printf("%s", name);
-
+    printf("** %s **\n", name);
+    printf("$$ %s $$\n", name);
+    printf("!! %s !!\n", name);
 
     return 0;
+
 }
