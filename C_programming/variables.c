@@ -80,5 +80,5 @@ int main(void){
 //What is the purpose of the & symbol when using scanf() to get user input?
 
 
-//How do you declare a constant in C? Provide an example.
+//How do you declare a constant in C? Provide an example. 
 
