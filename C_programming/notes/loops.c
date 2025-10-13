@@ -29,7 +29,7 @@ int main(void){
 }
 /*What is a loop? 
     a loop quite literally loops code until told to stop.
-    
+
 What are the two types of loops?
     for loops and while loops.
 
