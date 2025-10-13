@@ -28,10 +28,14 @@ int main(void){
     return 0;
 }
 /*What is a loop? 
+    a loop quite literally loops code until told to stop.
+    
 What are the two types of loops?
     for loops and while loops.
 
 What is iteration?
+    the process of repeating a code until the requirement is met.
+
 What are arrays? 
     the same as lists but python is the only coding program that calls it lists.
 
